@@ -37,3 +37,6 @@ python beast_compressor.py ./documents -o ./compressed
 ```
 python beast_compressor.py file.pdf -g "D:\gs\bin\gswin64c.exe"
 ```
+<hr>
+
+© 2025 Fahad Elahi Khan · Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
